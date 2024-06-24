@@ -8,7 +8,7 @@ import pickle
 #set up page configuration for streamlit
 icon='https://st2.depositphotos.com/1000128/7250/i/450/depositphotos_72503649-stock-photo-copper-pipes.jpg'
 st.set_page_config(page_title='Industrial copper',page_icon=icon,initial_sidebar_state='expanded',
-                        layout='wide',menu_items={"about":'This streamlit application was developed by M.Gokul'})
+                        layout='wide',menu_items={"about":'This streamlit application was developed by MADAN.S.S'})
 
 
 #set up the sidebar with optionmenu
