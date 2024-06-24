@@ -285,6 +285,6 @@ if selected == "About":
                 <li>Developed a user interface for interacting with the models.
                 <li>Predicted selling price and status based on user input.''',unsafe_allow_html=True)
     st.subheader(':blue[About :]')
-    st.markdown('''**Hello! I'm Gokul, a MBA graduate with a keen interest in data science and analytics.
+    st.markdown('''**Hello! I'Madan.s.s, a MBA graduate with a keen interest in data science and analytics.
                 Currently on an exciting journey into the world of data science...**''')
-    st.link_button('Linkedin','https://www.linkedin.com/in/gokul-m-j17/') 
+    st.link_button('Linkedin',
